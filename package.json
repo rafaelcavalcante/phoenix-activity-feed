@@ -1,0 +1,19 @@
+{
+  "name": "@rafaelcavalcante/phoenix-activity-feed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelcavalcante/phoenix-activity-feed.git"
+  },
+  "author": "Rafael Cavalcante <eu@rafaelcavalcante.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelcavalcante/phoenix-activity-feed/issues"
+  },
+  "homepage": "https://github.com/rafaelcavalcante/phoenix-activity-feed#readme"
+}
